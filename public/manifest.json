@@ -1,6 +1,6 @@
 {
-  "short_name": "React Express Template",
-  "name": "React Express Template - This name is a placeholder",
+  "short_name": "Dog Eat",
+  "name": "Food dogs can eat",
   "icons": [
     {
       "src": "./image/icon.png",
