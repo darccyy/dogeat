@@ -1,7 +1,6 @@
 {
   "name": "dogeat",
   "version": "1.0.0",
-  "proxy": "http://localhost:3001",
   "author": "darcy",
   "description": "Food dogs can eat",
   "dependencies": {
