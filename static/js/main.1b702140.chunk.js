@@ -1,0 +1,2 @@
+(this.webpackJsonpdogeat=this.webpackJsonpdogeat||[]).push([[0],{11:function(e,t,s){"use strict";s.r(t);s(1);var c=s(4),n=s.n(c),o=s(2),r=(s(9),s(0));function p(){return console.log(o),Object(r.jsxs)("div",{className:"App",children:[Object(r.jsx)("h1",{children:"React Express App"}),Object(r.jsx)("p",{children:"Ok"}),Object(r.jsxs)("p",{children:["Test data: ",o.test]})]})}n.a.render(Object(r.jsx)(p,{}),document.getElementById("root"))},2:function(e){e.exports=JSON.parse('{"test":123}')},9:function(e,t,s){}},[[11,1,2]]]);
+//# sourceMappingURL=main.1b702140.chunk.js.map
